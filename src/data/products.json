@@ -1,0 +1,38 @@
+[
+    {
+    "title": "Pelota de rugby",
+    "description": "Cuero",
+    "price": 2500,
+    "thumbnail": "",
+    "code": "PR001",
+    "stock": 2250,
+    "id": 1
+    },
+    {
+    "title": "Botines Adidas",
+    "description": "kakari",
+    "price": 5000,
+    "thumbnail": "",
+    "code": "AK001",
+    "stock": 200,
+    "id": 2
+    },
+    {
+    "title": "protecto bucal",
+    "description": "silicona",
+    "price": 260,
+    "thumbnail": "",
+    "code": "PB001",
+    "stock": 270,
+    "id": 3
+    },
+    {
+    "title": "camiseta de rugby",
+    "description": "los pumas",
+    "price": 3800,
+    "thumbnail": "",
+    "code": "CR001",
+    "stock": 900,
+    "id": 4
+    }
+]

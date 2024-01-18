@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1,
+    "products": [
+        {
+        "id": 2,
+        "title": "campera de cuero",
+        "description": "de cuero bovino",
+        "price": 5000,
+        "thumbnail": "",
+        "code": "CC001",
+        "quantity": 2
+        }
+    ]
+    }
+]
